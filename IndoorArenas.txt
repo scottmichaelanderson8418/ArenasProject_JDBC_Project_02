@@ -1,0 +1,495 @@
+The Palace of Auburn Hills
+Auburn Hills
+Michigan
+24276
+1988
+Detroit Pistons
+Basketball
+NBA
+
+United Center
+Chicago
+Illinois
+23500
+1994
+Chicago Bulls
+Basketball
+NBA
+
+BB&T Center
+Sunrise
+Florida
+22457
+1998
+Florida Panthers
+Hockey
+NHL
+
+Scottrade Center
+St. Louis
+Missouri
+22000
+1994
+St. Louis Blues
+Hockey
+NHL
+
+Amalie Arena
+Tampa
+Florida
+21817
+1996
+Tampa Bay Lightning
+Hockey
+NHL
+
+Wells Fargo Center
+Philadelphia
+Pennsylvania
+21600
+1996
+Philadelphia 76ers
+Basketball
+NBA
+
+PNC Arena
+Raleigh
+North Carolina
+21500
+1999
+Carolina Hurricanes
+Hockey
+NHL
+
+Quicken Loans Arena
+Cleveland
+Ohio
+21200
+1994
+Cleveland Cavaliers
+Basketball
+NBA
+
+Joe Louis Arena
+Detroit
+Michigan
+21152
+1979
+Detroit Red Wings
+Hockey
+NHL
+
+Vivint Smart Home Arena
+Salt Lake City
+Utah
+21000
+1991
+Utah Jazz
+Basketball
+NBA
+
+Moda Center
+Portland
+Oregon
+21000
+1995
+Portland Trail Blazers
+Basketball
+NBA
+
+Pepsi Center
+Denver
+Colorado
+21000
+1999
+Colorado Avalanche
+Hockey
+NHL
+
+Philips Arena
+Atlanta
+Georgia
+21000
+1999
+Atlanta Hawks
+Basketball
+NBA
+
+Verizon Center
+Washington
+DC
+21000
+1997
+Washington Wizards
+Basketball
+NBA
+
+Target Center
+Minneapolis
+Minnesota
+20500
+1990
+Minnesota Timberwolves
+Basketball
+NBA
+
+Time Warner Cable Arena
+Charlotte
+North Carolina
+20200
+2005
+Charlotte Hornets
+Basketball
+NBA
+
+Izod Center
+East Rutherford
+New Jersey
+20049
+1981
+New Jersey Devils
+Hockey
+NHL
+
+American Airlines Arena
+Miami
+Florida
+20000
+1999
+Miami Heat
+Basketball
+NBA
+
+American Airlines Center
+Dallas
+Texas
+20000
+2001
+Dallas Stars
+Hockey
+NHL
+
+Amway Center
+Orlando
+Florida
+20000
+2010
+Orlando Magic
+Basketball
+NBA
+
+Bankers Life Fieldhouse
+Indianapolis
+Indiana
+20000
+1999
+Indiana Pacers
+Basketball
+NBA
+
+BMO Harris Bradley Center
+Milwaukee
+Wisconsin
+20000
+1988
+Milwaukee Bucks
+Basketball
+NBA
+
+Bridgestone Arena
+Nashville
+Tennessee
+20000
+1996
+Nashville Predators
+Hockey
+NHL
+
+Madison Square Garden
+New York City
+New York
+20000
+1968
+New York Knicks
+Basketball
+NBA
+
+Nationwide Arena
+Columbus
+Ohio
+20000
+2000
+Columbus Blue Jackets
+Hockey
+NHL
+
+Oracle Arena
+Oakland
+California
+20000
+1966
+Golden State Warriors
+Basketball
+NBA
+
+SAP Center at San Jose
+San Jose
+California
+20000
+1993
+San Jose Sharks
+Hockey
+NHL
+
+Staples Center
+Los Angeles
+California
+20000
+1999
+Los Angeles Lakers
+Basketball
+NBA
+
+Chesapeake Energy Arena
+Oklahoma City
+Oklahoma
+19711
+2002
+Oklahoma City Thunder
+Basketball
+NBA
+
+TD Garden
+Boston
+Massachusetts
+19580
+1995
+Boston Celtics
+Basketball
+NBA
+
+Consol Energy Center
+Pittsburgh
+Pennsylvania
+19578
+2010
+Pittsburgh Penguins
+Hockey
+NHL
+
+Thomas and Mack Center (UNLV)
+Paradise
+Nevada
+19522
+1983
+Las Vegas Outlaws
+Football
+AFL
+
+FedEx Forum
+Memphis
+Tennessee
+19500
+2004
+Memphis Grizzlies
+Basketball
+NBA
+
+Talking Stick Resort Arena
+Phoenix
+Arizona
+19500
+1992
+Phoenix Suns
+Basketball
+NBA
+
+First Niagra Center
+Buffalo
+New York
+19468
+1996
+Buffalo Sabres
+Hockey
+NHL
+
+Xcel Energy Center
+St. Paul
+Minnesota
+19355
+2000
+Minnesota Wild
+Hockey
+NHL
+
+BOK Center
+Tulsa
+Oklahoma
+19199
+2008
+Tulsa Oilers
+Hockey
+NHL
+
+AT&T Center
+San Antonio
+Texas
+19000
+2002
+San Antonio Spurs
+Basketball
+NBA
+
+Barclays Center
+Brooklyn
+New York
+19000
+2012
+Brooklyn Nets
+Basketball
+NBA
+
+Gila River Arena
+Glendale
+Arizona
+19000
+2003
+Arizona Coyotes
+Hockey
+NHL
+
+Toyota Center
+Houston
+Texas
+19000
+2003
+Houston Rockets
+Basketball
+NBA
+
+Allstate Arena
+Rosemont
+Illinois
+18500
+1979
+Chicago Wolves
+Hockey
+AHL
+
+Smoothie King Center
+New Orleans
+Louisiana
+18500
+1999
+New Orleans Pelicans
+Basketball
+NBA
+
+Honda Center
+Anaheim
+California
+18325
+1993
+Anaheim Ducks
+Hockey
+NHL
+
+Sleep Train Arena
+Sacramento
+California
+18000
+1988
+Sacramento Kings
+Basketball
+NBA
+
+U.S. Bank Arena
+Cincinnati
+Ohio
+17556
+1975
+Cincinnati Cyclones
+Hockey
+ECHL
+
+Times Union Center
+Albany
+New York
+17500
+1990
+Albany Devils
+Hockey
+AHL
+
+Key Arena
+Seattle
+Washington
+17459
+1962
+Seattle Storm
+Basketball
+WNBA
+
+Intrust Bank Arena
+Wichita
+Kansas
+17000
+2010
+Wichita Thunder
+Hockey
+ECHL
+
+Wells Fargo Arena
+Des Moines
+Iowa
+16980
+2005
+Iowa Wild
+Hockey
+AHL
+
+XL Center
+Hartford
+Connecticut
+16606
+1975
+Hartford Wolf Pack
+Hockey
+AHL
+
+Jacksonville Veterans Memorial Arena
+Jacksonville
+Florida
+16301
+2003
+Jacksonville Sharks
+Football
+AFL
+
+Valley View Casino Center
+San Diego
+California
+16100
+1966
+San Diego Gulls
+Hockey
+AHL
+
+Bon Secours Wellness Arena
+Greenville
+South Carolina
+15951
+1998
+Greenvile Swamp Rabbits
+Hockey
+ECHL
+
+Cox Convention Center
+Oklahoma City
+Oklahoma
+15634
+1972
+Oklahoma City Blue
+Basketball
+NBA D-League
+
